@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
+scikit-surprise
+joblib
 matplotlib
 seaborn
-joblib
-scikit-surprise
+ipywidgets
